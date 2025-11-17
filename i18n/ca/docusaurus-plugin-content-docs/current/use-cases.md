@@ -1,6 +1,6 @@
 ---
-title: Desenvolupament de casos d'ús en espais de dades
-sidebar_label: Casos d'ús (Bones pràctiques)
+title: Desenvolupament de casos d'ús en espais de dades agroalimentaris
+sidebar_label: Desenvolupament de casos d'ús
 ---
 
 # Desenvolupament de casos d'ús en espais de dades

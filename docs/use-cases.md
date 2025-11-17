@@ -1,6 +1,6 @@
 ---
-title: Historia de éxito en interoperabilidad
-sidebar_label: Historia de éxito en interoperabilidad
+title: Desarrollo de casos de uso en espacios de datos agroalimentarios
+sidebar_label: Desarrollo de casos de uso
 ---
 
 # Desarrollo de casos de uso en espacios de datos

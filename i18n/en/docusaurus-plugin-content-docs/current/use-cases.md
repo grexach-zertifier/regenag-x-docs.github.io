@@ -1,6 +1,6 @@
 ---
-title: Development of use cases in data spaces
-sidebar_label: Use cases (Best practices)
+title: Development of use cases in agri‑food data spaces
+sidebar_label: Use case development
 ---
 
 # Development of use cases in data spaces
