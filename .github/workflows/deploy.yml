@@ -37,3 +37,5 @@ jobs:
           # Keep history allows incremental updates; set to false for force-push
           keep_files: false
           force_orphan: true
+          # Ensure custom domain persists by writing CNAME on each deploy
+          cname: docs.regenag-x.com
