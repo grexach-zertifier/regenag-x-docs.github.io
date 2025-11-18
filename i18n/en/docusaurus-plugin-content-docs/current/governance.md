@@ -17,29 +17,28 @@ For new use cases, priority will be given to those that leverage the capabilitie
 
 On the other hand, with regard to data and processing services, governance will define the rules to be followed when sharing data. In addition to being related to the agri-food sector, it will be essential to comply with the regulatory framework established at national and European level.
 
-To maximize interoperability both within the demonstrator's data space and with those with which it will interoperate (those in the Pontus-X ecosystem and others that use Gaia-X data space federation tools), the governance structure will be organized at two levels: a Global Governance that will harmonize interoperability between different data spaces and a specific governance body for the demonstrator, the RegenAg-x Governance.
+To maximize interoperability both within the demonstrator's data space and with those with which it will interoperate (those in the Ocean Enterprise ecosystem and others that use Gaia-X data space federation tools), the governance structure will be organized at two levels: a Global Governance that will harmonize interoperability between different data spaces and a specific governance body for the demonstrator, the RegenAg-x Governance.
 
 ## Global Governance
 
-Global Governance will mainly be that of the Pontus-X ecosystem as the entity responsible for defining interoperability rules between the data spaces of this ecosystem. Governance is exercised jointly by all participants acting as "federators".
+Global Governance will mainly be that of the Ocean Enterprise ecosystem as the entity responsible for defining interoperability rules between the data spaces of this ecosystem. Governance is exercised jointly by all participants acting as "federators".
 
-It is also relevant to mention the participation of many Pontus-X members in the governance bodies of Gaia-X Europe, and the interest of that ecosystem in aligning with the specifications and components of Gaia-X for the federation of data spaces.
+It is also relevant to mention the participation of many Ocean Enterprise members in the governance bodies of Gaia-X Europe, and the interest of that ecosystem in aligning with the specifications and components of Gaia-X for the federation of data spaces.
 
 Finally, although the project to implement the future Common European Agricultural Data Space (CEADS) will not start until 2025, the results of the preparatory AgriDataSpace project (in which the University of Lleida participated) already outline its future governance model based on a Network Administrative Organization (NAO). During 2025, the evolution of the CEADS implementation project will be monitored to explore options to integrate RegenAg-x into its NAO.
 
-![Fig. 1. Members of the Pontus-X ecosystem and its governance structure (source: deltaDAO AG)](https://portal.pontus-x.eu/images/ecosystem.webp)
 
 ## RegenAg-x Governance
 
-Aligned with the Global Governance inherited from the ecosystems of which RegenAg-x will be a part (Pontus-X, Gaia-X and the future CEADS), governance will also be carried out at the demonstrator level. The roles within RegenAg-x Governance will be:
+Aligned with the Global Governance inherited from the ecosystems of which RegenAg-x will be a part (Ocean Enterprise, Gaia-X and the future CEADS), governance will also be carried out at the demonstrator level. The roles within RegenAg-x Governance will be:
 
 - Ecosystem promoter: the University of Lleida would be responsible, at least initially, for its governance and for defining and executing the onboarding and offboarding processes, as well as its oversight.
-- Technology provider: the Pontus-X provider, presumably deltaDAO AG.
+- Technology provider: the Ocean Enterprise provider, presumably deltaDAO AG.
 - Intermediation service providers: deltaDAO AG and Arsys.
 - Data space operator: University of Lleida but also those entities that operate the compute-to-data intermediation service. Initially Arsys, but open to any operator with computing resources who wants to commercialize through the data space.
 - Providers and consumers: those participants who have signed the letter of support as indicated above.
 
-It is also important to identify the actors indirectly involved in that governance as they constitute the development communities of the components used by RegenAg-x and the data spaces with which it would interoperate. Specifically, the development communities of Gaia-X, Eclipse, Pontus-X and Ocean Protocol, all open source. And finally, the providers of global interoperability and trust services, mainly the different providers of the GXDCH.
+It is also important to identify the actors indirectly involved in that governance as they constitute the development communities of the components used by RegenAg-x and the data spaces with which it would interoperate. Specifically, the development communities of Gaia-X, Eclipse, Ocean Enterprise and Ocean Protocol, all open source. And finally, the providers of global interoperability and trust services, mainly the different providers of the GXDCH.
 
 Regarding the organizational model of the demonstrator, it will be organized following the network model. Collaboration among all participants will be based on consensus, reciprocity and the pursuit of collective goals and benefits. But the governance of a data space is not something static, unchanging over time, but should be understood as continuously evolving.
 
@@ -64,7 +63,7 @@ RegenAg-x's initial governance model, based on leadership by the promoter of the
 
 #### Interrelation with other data spaces
 
-- Operation of the demonstrator within the decentralized network of the Pontus-X ecosystem. Demonstrator users can interrelate with other data spaces in the ecosystem, including cross-sectoral relationships.
+- Operation of the demonstrator within the decentralized network of the Ocean Enterprise ecosystem. Demonstrator users can interrelate with other data spaces in the ecosystem, including cross-sectoral relationships.
 
 ### Semantic interoperability
 
@@ -76,7 +75,7 @@ RegenAg-x's initial governance model, based on leadership by the promoter of the
 
 #### Data sovereignty
 
-- Definition of policies for use and access to resources: the data space will initially have the information model of the existing smart contracts within the Pontus-X framework to define policies for access to and use of resources. During the project, options will be explored to integrate them with the access policy languages being established within the Gaia-X framework.
+- Definition of policies for use and access to resources: the data space will initially have the information model of the existing smart contracts within the Ocean Enterprise framework to define policies for access to and use of resources. During the project, options will be explored to integrate them with the access policy languages being established within the Gaia-X framework.
 
 #### Formats
 
@@ -90,8 +89,8 @@ RegenAg-x's initial governance model, based on leadership by the promoter of the
 
 #### Data space architecture
 
-- Architecture based on the digital federation of data and integrated into the network of data federations provided by the open source specifications and components of the Pontus-X ecosystem and the Gaia-X initiative.
+- Architecture based on the digital federation of data and integrated into the network of data federations provided by the open source specifications and components of the Ocean Enterprise ecosystem and the Gaia-X initiative.
 
 #### Solution components
 
-- Reuse of proven components from the Pontus-X and Gaia-X ecosystem, ensuring interoperability, data sovereignty and traceability.
+- Reuse of proven components from the Ocean Enterprise and Gaia-X ecosystem, ensuring interoperability, data sovereignty and traceability.
