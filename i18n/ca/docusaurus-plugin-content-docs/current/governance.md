@@ -17,29 +17,28 @@ Per a nous casos d'ús, es prioritzaran aquells que aprofitin les capacitats del
 
 D'altra banda, pel que fa a les dades i els serveis de processament, la governança definirà les regles a seguir a l'hora de compartir dades. A més de que estiguin relacionades amb el sector agroalimentari, serà indispensable que es compleixi amb el marc regulatori establert a nivell nacional i europeu.
 
-Per maximitzar la interoperabilitat tant dins de l'espai de dades del demostrador com amb aquells amb què interoperarà (els de l'ecosistema Pontus-X i altres que utilitzin les eines de federació d'espais de dades de Gaia-X), l'estructura de governança s'organitzarà en 2 nivells: una Governança Global que harmonitzarà la interoperabilitat entre espais de dades diferents i un òrgan de governança específic per al demostrador, la Governança RegenAg-x.
+Per maximitzar la interoperabilitat tant dins de l'espai de dades del demostrador com amb aquells amb què interoperarà (els de l'ecosistema Ocean Enterprise i altres que utilitzin les eines de federació d'espais de dades de Gaia-X), l'estructura de governança s'organitzarà en 2 nivells: una Governança Global que harmonitzarà la interoperabilitat entre espais de dades diferents i un òrgan de governança específic per al demostrador, la Governança RegenAg-x.
 
 ## Governança Global
 
-La Governança Global serà principalment la de l'ecosistema Pontus-X com a entitat responsable de definir les normes d'interoperabilitat entre els espais de dades d'aquest ecosistema. La governança s'exerceix de manera compartida pel conjunt de participants en el rol de "federadors".
+La Governança Global serà principalment la de l'ecosistema Ocean Enterprise com a entitat responsable de definir les normes d'interoperabilitat entre els espais de dades d'aquest ecosistema. La governança s'exerceix de manera compartida pel conjunt de participants en el rol de "federadors".
 
-També és rellevant esmentar la participació de molts dels integrants de Pontus-X en els òrgans de governança de Gaia-X Europa, i l'interès d'aquest ecosistema a alinear-se amb les especificacions i components de Gaia-X per a la federació d'espais de dades.
+També és rellevant esmentar la participació de molts dels integrants d'Ocean Enterprise en els òrgans de governança de Gaia-X Europa, i l'interès d'aquest ecosistema a alinear-se amb les especificacions i components de Gaia-X per a la federació d'espais de dades.
 
 Finalment, tot i que el projecte per a la implementació del futur Espai Comú Europeu de Dades Agràries (CEADS) no començarà fins al 2025, els resultats del projecte preparatori AgriDataSpace (en el qual ha participat la Universitat de Lleida) ja plantegen el seu futur model de governança basat en una Organització Administrativa de Xarxa (NAO). Es seguirà durant el 2025 l'evolució del projecte d'implementació del CEADS per explorar les opcions per integrar RegenAg-x al seu NAO.
 
-![Fig. 1. Integrants de l'ecosistema Pontus-X i la seva estructura de governança (font: deltaDAO AG)](https://portal.pontus-x.eu/images/ecosystem.webp)
 
 ## Governança RegenAg-x
 
-Alineada amb la Governança Global heretada dels ecosistemes dels quals formarà part RegenAg-x (Pontus-X, Gaia-X i el futur CEADS), també es durà una governança a nivell del demostrador. Els rols dins de la Governança de RegenAg-x seran:
+Alineada amb la Governança Global heretada dels ecosistemes dels quals formarà part RegenAg-x (Ocean Enterprise, Gaia-X i el futur CEADS), també es durà una governança a nivell del demostrador. Els rols dins de la Governança de RegenAg-x seran:
 
 - Promotor de l'ecosistema: la Universitat de Lleida s'encarregaria com a mínim inicialment de la seva governança i de definir i executar els processos d'alta i baixa al sistema, així com la seva supervisió.
-- Proveïdor de tecnologia: el proveïdor Pontus-X, presumiblement deltaDAO AG.
+- Proveïdor de tecnologia: el proveïdor Ocean Enterprise, presumiblement deltaDAO AG.
 - Proveïdors de serveis d'intermediació: deltaDAO AG i Arsys.
 - Operador de l'espai de dades: Universitat de Lleida però també aquelles entitats que operin el servei d'intermediació de computació a dades. Inicialment Arsys, però obert a qualsevol operador amb recursos de computació que vulgui comercialitzar a través de l'espai de dades.
 - Proveïdors i consumidors: aquells participants que han signat la carta de suport tal com s'ha indicat anteriorment.
 
-També és important identificar els actors implicats indirectament en aquesta governança per constituir les comunitats de desenvolupament dels components utilitzats per RegenAg-x i els espais de dades amb què interoperaria. Concretament, les comunitats de desenvolupament de Gaia-X, Eclipse, Pontus-X i Ocean Protocol, totes elles basades en codi obert. I finalment els proveïdors de serveis globals d'interoperabilitat i confiança, principalment els diferents proveïdors de la GXDCH.
+També és important identificar els actors implicats indirectament en aquesta governança per constituir les comunitats de desenvolupament dels components utilitzats per RegenAg-x i els espais de dades amb què interoperaria. Concretament, les comunitats de desenvolupament de Gaia-X, Eclipse, Ocean Enterprise i Ocean Protocol, totes elles basades en codi obert. I finalment els proveïdors de serveis globals d'interoperabilitat i confiança, principalment els diferents proveïdors de la GXDCH.
 
 Pel que fa al model organitzatiu del demostrador, estarà organitzat seguint el model en xarxa. La col·laboració entre tots els participants estarà basada en el consens, la reciprocitat i la cerca de metes i beneficis col·lectius. Però la governança d'un espai de dades no és quelcom estàtic, inamovible en el temps, sinó que s'ha d'entendre com en contínua evolució.
 
@@ -64,7 +63,7 @@ El model de governança inicial de RegenAg-x, basat en el lideratge per part del
 
 #### Interrelació amb altres espais de dades
 
-- Funcionament del demostrador dins de la xarxa descentralitzada de l'ecosistema Pontus-X. Els usuaris del demostrador poden interrelacionar-se amb altres espais de dades de l'ecosistema, incloent-hi relacions intersectorials.
+- Funcionament del demostrador dins de la xarxa descentralitzada de l'ecosistema Ocean Enterprise. Els usuaris del demostrador poden interrelacionar-se amb altres espais de dades de l'ecosistema, incloent-hi relacions intersectorials.
 
 ### Interoperabilitat semàntica
 
@@ -76,7 +75,7 @@ El model de governança inicial de RegenAg-x, basat en el lideratge per part del
 
 #### Sobirania de la dada
 
-- Definició de polítiques d'ús i d'accés als recursos: l'espai de dades comptarà inicialment amb el model d'informació dels contractes intel·ligents existents en el marc de Pontus-X per definir polítiques d'accés i d'ús dels recursos. Durant el projecte, s'exploraran opcions per integrar-los amb els llenguatges per a polítiques d'accés que s'estiguin establint en el marc de Gaia-X.
+- Definició de polítiques d'ús i d'accés als recursos: l'espai de dades comptarà inicialment amb el model d'informació dels contractes intel·ligents existents en el marc d'Ocean Enterprise per definir polítiques d'accés i d'ús dels recursos. Durant el projecte, s'exploraran opcions per integrar-los amb els llenguatges per a polítiques d'accés que s'estiguin establint en el marc de Gaia-X.
 
 #### Formats
 
@@ -90,8 +89,8 @@ El model de governança inicial de RegenAg-x, basat en el lideratge per part del
 
 #### Arquitectura de l'espai de dades
 
-- Arquitectura basada en la federació digital de dades i integrada en la xarxa de federacions de dades proporcionada per les especificacions i components amb llicència de codi obert de l'ecosistema Pontus-X i la iniciativa Gaia-X.
+- Arquitectura basada en la federació digital de dades i integrada en la xarxa de federacions de dades proporcionada per les especificacions i components amb llicència de codi obert de l'ecosistema Ocean Enterprise i la iniciativa Gaia-X.
 
 #### Components de la solució
 
-- Reutilització de components provats de l'ecosistema Pontus-X i Gaia-X, garantint interoperabilitat, sobirania de la dada i traçabilitat.
+- Reutilització de components provats de l'ecosistema Ocean Enterprise i Gaia-X, garantint interoperabilitat, sobirania de la dada i traçabilitat.

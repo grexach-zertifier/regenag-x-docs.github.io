@@ -21,6 +21,10 @@ const sidebars = {
       type: 'doc',
       id: 'about',
     },
+      {
+          type: 'doc',
+          id: 'agriculture-landing',
+      },
     {
       type: 'doc',
       id: 'governance',
@@ -40,6 +44,30 @@ const sidebars = {
       ],
       collapsed: false,
     },
+    {
+      type: 'doc',
+      id: 'verifiable-credentials',
+    },
+    {
+      type: 'doc',
+      id: 'ocean-protocol-market',
+    },
+    {
+      type: 'doc',
+      id: 'gaiax-standards',
+    },
+    {
+      type: 'doc',
+      id: 'ontologies',
+    },
+    {
+      type: 'doc',
+      id: 'compute-to-data',
+    },
+    {
+      type: 'doc',
+      id: 'market-policy',
+    }
   ],
 };
 
